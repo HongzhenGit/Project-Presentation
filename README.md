@@ -1,2 +1,2 @@
 # Project-Presentation
-This repository stores the pre-recorded video and the deck of my research project.
+This repository stores the deck of my research project (in PDF).
